@@ -1,1 +1,2 @@
-Artificial Intelligence course on edX
+CS188.1x Artificial Intelligence
+--------------------------------------
